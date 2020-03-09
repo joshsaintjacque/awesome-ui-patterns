@@ -26,3 +26,7 @@ Pre-built libraries that are ready to use.
 #### [Terminal CSS](https://github.com/Gioni06/terminal.css)
 
 ![](images/libraries/terminal-css.png)
+
+#### [Paper CSS](https://github.com/papercss/papercss)
+
+![](images/libraries/paper-css.png)
