@@ -1,6 +1,15 @@
 # Awesome UI Patterns
 A collection of UI patterns that are 😎 awesome / beautiful.
 
+## Sources
+Web sites that aggregate good design.
+
+- [CodePen](https://codepen.io/)
+- [CSS Nector](https://cssnectar.com/)
+- [Behance](https://www.behance.net)
+- [Pttrns](https://pttrns.com/)
+- [Dribbble](https://dribbble.com/)
+
 ## Elements
 Individual UI element examples that are really impressive. Can be live code snippets or designs.
 
