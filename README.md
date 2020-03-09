@@ -27,6 +27,6 @@ Pre-built libraries that are ready to use.
 
 ![](images/libraries/terminal-css.png)
 
-#### [Paper CSS](https://github.com/papercss/papercss)
+#### [PaperCSS](https://github.com/papercss/papercss)
 
 ![](images/libraries/paper-css.png)
