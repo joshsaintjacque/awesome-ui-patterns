@@ -19,6 +19,10 @@ Pre-built libraries that are ready to use.
 
 ### CSS Frameworks
 
-#### [BOOTSTRA.386]()
+#### [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386)
 
 ![](images/libraries/bootstrap-386.png)
+
+#### [Terminal CSS](https://github.com/Gioni06/terminal.css)
+
+![](images/libraries/terminal-css.png)
