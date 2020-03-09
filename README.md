@@ -13,6 +13,12 @@ Web sites that aggregate good design.
 ## Elements
 Individual UI element examples that are really impressive. Can be live code snippets or designs.
 
+### Buttons
+
+#### [Trash button animation](https://codepen.io/aaroniker/pen/BaNzEWe)
+
+![](images/buttons/trash-button-animation.gif)
+
 ### Checkboxes
 
 #### [Checklist Animation](https://codepen.io/milanraring/pen/QWbqBGo)
