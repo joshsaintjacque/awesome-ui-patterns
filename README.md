@@ -19,6 +19,9 @@ Individual UI element examples that are really impressive. Can be live code snip
 
 ![](images/checkboxes/checklist-animation.gif)
 
+#### [Pure CSS toggle buttons](https://codepen.io/mallendeo/pen/eLIiG)
+
+![](images/checkboxes/pure-css-toggle-buttons.gif)
 
 ## Sites / Apps
 Examples of web applications in the wild that really nail some aspect of their UI/UX.
