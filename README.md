@@ -19,6 +19,10 @@ Pre-built libraries that are ready to use.
 
 ### CSS Frameworks
 
+#### [Materialize CSS](https://materializecss.com/)
+
+![](images/libraries/materialize-css.png)
+
 #### [Bootstrap](https://getbootstrap.com/)
 
 ![](images/libraries/bootstrap.png)
