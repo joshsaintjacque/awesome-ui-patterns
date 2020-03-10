@@ -4,6 +4,7 @@ A collection of UI patterns that are 😎 awesome / beautiful.
 ## Sources
 Web sites that aggregate good design.
 
+- [Collect UI](http://collectui.com/)
 - [CodePen](https://codepen.io/)
 - [CSS Nector](https://cssnectar.com/)
 - [Behance](https://www.behance.net)
