@@ -14,6 +14,24 @@ Web sites that aggregate good design.
 ## Elements
 Individual UI element examples that are really impressive. Can be live code snippets or designs.
 
+### Accordians
+
+#### [CSS Accordian](https://codepen.io/mxttsco/pen/EgAVjo)
+
+![](images/accordians/css-accordian.gif)
+
+#### [CSS Accordian #2](https://codepen.io/villa7/pen/grPddp)
+
+![](images/accordians/css-accordian-2.gif)
+
+#### [CSS + HTML only Accordion Element](https://codepen.io/abergin/pen/ihlDf)
+
+![](images/accordians/css-html-only-accordian-element.gif)
+
+#### [Accordian](https://codepen.io/valaxin/pen/reQMXp)
+
+![](images/accordians/accordian.gif)
+
 ### Buttons
 
 #### [Trash button animation](https://codepen.io/aaroniker/pen/BaNzEWe)
