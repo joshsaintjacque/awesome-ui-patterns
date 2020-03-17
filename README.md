@@ -57,8 +57,7 @@ Individual UI element examples that are really impressive. Can be live code snip
 ## Sites / Apps
 Examples of web applications in the wild that really nail some aspect of their UI/UX.
 
-## Libraries
-Pre-built libraries that are ready to use.
+### Coming soon...
 
 ## Designs
 
@@ -66,7 +65,7 @@ Pre-built libraries that are ready to use.
 
 #### [Sign Up and Login Animated](https://dribbble.com/shots/2311260-Day-1-Sign-Up-and-Login-Animated-Download-Template)
 
-![](images/designs/sign-up-and-login-animated.gif)
+![](images/designs/sign-up-and-login-animated-2.gif)
 
 #### [Task Manager Concept Sign Up](https://dribbble.com/shots/2878911-To-Do-App-Concept-Sign-Up)
 
@@ -80,42 +79,45 @@ Pre-built libraries that are ready to use.
 
 ![](images/designs/sign-up-window.png)
 
-## CSS Frameworks
+## Libraries
+Pre-built libraries that are ready to use.
 
-### [Tailwind CSS](https://www.youtube.com/watch?v=mCa0JXEwDEk)
+### CSS Frameworks
+
+#### [Tailwind CSS](https://www.youtube.com/watch?v=mCa0JXEwDEk)
 
 ![](images/libraries/tailwind-css.png)
 
-### [Materialize CSS](https://materializecss.com/)
+#### [Materialize CSS](https://materializecss.com/)
 
 ![](images/libraries/materialize-css.png)
 
-### [Bootstrap](https://getbootstrap.com/)
+#### [Bootstrap](https://getbootstrap.com/)
 
 ![](images/libraries/bootstrap.png)
 
-### [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386)
+#### [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386)
 
 ![](images/libraries/bootstrap-386.png)
 
-### [Terminal CSS](https://github.com/Gioni06/terminal.css)
+#### [Terminal CSS](https://github.com/Gioni06/terminal.css)
 
 ![](images/libraries/terminal-css.png)
 
-### [PaperCSS](https://github.com/papercss/papercss)
+#### [PaperCSS](https://github.com/papercss/papercss)
 
 ![](images/libraries/paper-css.png)
 
-### [RPGUI](https://github.com/RonenNess/RPGUI)
+#### [RPGUI](https://github.com/RonenNess/RPGUI)
 
 ![](images/libraries/rpgui.jpg)
 
-### [Geo-Bootstrap](https://github.com/divshot/geo-bootstrap)
+#### [Geo-Bootstrap](https://github.com/divshot/geo-bootstrap)
 
 ![](images/libraries/geo-bootstrap.png)
 
-## React Component Libraries
+### React Component Libraries
 
-### [React95](https://github.com/React95/React95)
+#### [React95](https://github.com/React95/React95)
 
 ![](images/libraries/react95.png)
