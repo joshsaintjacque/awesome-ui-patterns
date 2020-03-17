@@ -62,6 +62,10 @@ Pre-built libraries that are ready to use.
 
 ### CSS Frameworks
 
+#### [Tailwind CSS](https://www.youtube.com/watch?v=mCa0JXEwDEk)
+
+![](images/libraries/tailwind-css.png)
+
 #### [Materialize CSS](https://materializecss.com/)
 
 ![](images/libraries/materialize-css.png)
