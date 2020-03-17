@@ -18,7 +18,7 @@ Individual UI element examples that are really impressive. Can be live code snip
 
 #### [CSS Accordian](https://codepen.io/mxttsco/pen/EgAVjo)
 
-![](images/accordians/css-accordian-gif.gif)
+![](images/accordians/accordian-gif.gif)
 
 #### [CSS Accordian #2](https://codepen.io/villa7/pen/grPddp)
 
