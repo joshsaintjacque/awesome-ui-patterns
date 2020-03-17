@@ -60,42 +60,62 @@ Examples of web applications in the wild that really nail some aspect of their U
 ## Libraries
 Pre-built libraries that are ready to use.
 
-### CSS Frameworks
+## Designs
 
-#### [Tailwind CSS](https://www.youtube.com/watch?v=mCa0JXEwDEk)
+### Sign Up/In Forms
+
+#### [Sign Up and Login Animated](https://dribbble.com/shots/2311260-Day-1-Sign-Up-and-Login-Animated-Download-Template)
+
+![](images/designs/sign-up-and-login-animated.gif)
+
+#### [Task Manager Concept Sign Up](https://dribbble.com/shots/2878911-To-Do-App-Concept-Sign-Up)
+
+![](images/designs/task-manager-concept-sign-up.png)
+
+#### [Game Login](https://dribbble.com/shots/2358349-Daily-Shmaily-UI-1-Game-Login)
+
+![](images/designs/game-login.png)
+
+#### [Sign Up Window](https://dribbble.com/shots/2404873-Sign-Up-Window-Daily-UI-001)
+
+![](images/designs/sign-up-window.png)
+
+## CSS Frameworks
+
+### [Tailwind CSS](https://www.youtube.com/watch?v=mCa0JXEwDEk)
 
 ![](images/libraries/tailwind-css.png)
 
-#### [Materialize CSS](https://materializecss.com/)
+### [Materialize CSS](https://materializecss.com/)
 
 ![](images/libraries/materialize-css.png)
 
-#### [Bootstrap](https://getbootstrap.com/)
+### [Bootstrap](https://getbootstrap.com/)
 
 ![](images/libraries/bootstrap.png)
 
-#### [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386)
+### [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386)
 
 ![](images/libraries/bootstrap-386.png)
 
-#### [Terminal CSS](https://github.com/Gioni06/terminal.css)
+### [Terminal CSS](https://github.com/Gioni06/terminal.css)
 
 ![](images/libraries/terminal-css.png)
 
-#### [PaperCSS](https://github.com/papercss/papercss)
+### [PaperCSS](https://github.com/papercss/papercss)
 
 ![](images/libraries/paper-css.png)
 
-#### [RPGUI](https://github.com/RonenNess/RPGUI)
+### [RPGUI](https://github.com/RonenNess/RPGUI)
 
 ![](images/libraries/rpgui.jpg)
 
-#### [Geo-Bootstrap](https://github.com/divshot/geo-bootstrap)
+### [Geo-Bootstrap](https://github.com/divshot/geo-bootstrap)
 
 ![](images/libraries/geo-bootstrap.png)
 
-### React Component Libraries
+## React Component Libraries
 
-#### [React95](https://github.com/React95/React95)
+### [React95](https://github.com/React95/React95)
 
 ![](images/libraries/react95.png)
