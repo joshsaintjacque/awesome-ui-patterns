@@ -121,3 +121,7 @@ Pre-built libraries that are ready to use.
 #### [React95](https://github.com/React95/React95)
 
 ![](images/libraries/react95.png)
+
+### Tailwind Components
+
+#### [Tailwind Blocks](https://mert.dev/tailwind-blocks/)
