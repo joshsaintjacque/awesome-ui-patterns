@@ -122,6 +122,10 @@ Pre-built libraries that are ready to use.
 
 ![](images/libraries/react95.png)
 
-### Tailwind Components
+## CSS Framework Resources
+
+### Tailwind
 
 #### [Tailwind Blocks](https://mert.dev/tailwind-blocks/)
+
+#### [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
