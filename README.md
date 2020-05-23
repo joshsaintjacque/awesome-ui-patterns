@@ -126,6 +126,10 @@ Pre-built libraries that are ready to use.
 
 ![](images/libraries/react95.png)
 
+#### [Treact](https://treact.owaiskhan.me/)
+
+![](images/libraries/treact.png)
+
 ## CSS Framework Resources
 
 ### Tailwind
