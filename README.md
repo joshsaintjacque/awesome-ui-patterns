@@ -118,7 +118,7 @@ Pre-built libraries that are ready to use.
 
 #### [XP.css](https://botoxparty.github.io/XP.css/)
 
-![images/libraries/xp-css.png]
+![XP.css](images/libraries/xp-css.png)
 
 ### React Component Libraries
 
