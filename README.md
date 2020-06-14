@@ -14,6 +14,7 @@ Web sites that aggregate good design.
 ## Other Lists
 
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [35 Free React Templates and Themes](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci)
 
 ## Tools
 
