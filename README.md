@@ -11,6 +11,14 @@ Web sites that aggregate good design.
 - [Pttrns](https://pttrns.com/)
 - [Dribbble](https://dribbble.com/)
 
+## Other Lists
+
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+
+## Tools
+
+- [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
+
 ## Elements
 Individual UI element examples that are really impressive. Can be live code snippets or designs.
 
