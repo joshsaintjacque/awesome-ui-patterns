@@ -23,6 +23,7 @@ Web sites that aggregate good design.
 - [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [Logaster logo maker](https://www.logaster.com/)
 - [Miroodles](https://blush.design/collections/miroodles/builder/zZfzSb-wS)
+- [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator)
 
 ## Elements
 Individual UI element examples that are really impressive. Can be live code snippets or designs.
