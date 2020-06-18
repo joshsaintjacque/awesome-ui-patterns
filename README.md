@@ -19,6 +19,7 @@ Web sites that aggregate good design.
 ## Tools
 
 - [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
+- [Stylify Me - Online Style Guide Generator](http://stylifyme.com/?stylify=www.spotify.com)
 
 ## Elements
 Individual UI element examples that are really impressive. Can be live code snippets or designs.
