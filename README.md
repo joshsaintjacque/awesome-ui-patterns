@@ -22,6 +22,7 @@ Web sites that aggregate good design.
 - [Stylify Me - Online Style Guide Generator](http://stylifyme.com/?stylify=www.spotify.com)
 - [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [Logaster logo maker](https://www.logaster.com/)
+- [Miroodles](https://blush.design/collections/miroodles/builder/zZfzSb-wS)
 
 ## Elements
 Individual UI element examples that are really impressive. Can be live code snippets or designs.
