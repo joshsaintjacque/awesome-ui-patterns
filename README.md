@@ -24,6 +24,7 @@ Web sites that aggregate good design.
 - [Logaster logo maker](https://www.logaster.com/)
 - [Miroodles](https://blush.design/collections/miroodles/builder/zZfzSb-wS)
 - [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator)
+- [SneakPeekIt](https://sneakpeekit.com/) printable device templates
 
 ## Elements
 Individual UI element examples that are really impressive. Can be live code snippets or designs.
