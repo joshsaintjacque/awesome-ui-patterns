@@ -145,6 +145,8 @@ Pre-built libraries that are ready to use.
 
 ![](images/libraries/treact.png)
 
+#### [React Spectrum](https://react-spectrum.adobe.com/blog/introducing-react-spectrum.html)
+
 ## CSS Framework Resources
 
 ### Tailwind
