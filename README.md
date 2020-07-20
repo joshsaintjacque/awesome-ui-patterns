@@ -152,3 +152,7 @@ Pre-built libraries that are ready to use.
 #### [Tailwind Blocks](https://mert.dev/tailwind-blocks/)
 
 #### [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
+
+## CSS Snippets
+
+### [CSS Effect Snippets](https://emilkowalski.github.io/css-effects-snippets/)
